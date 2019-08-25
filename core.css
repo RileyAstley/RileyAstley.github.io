@@ -76,10 +76,10 @@ The 2 items above are not owned by me, They go to there respected owners
 .container-3baos1 , .container-1giJp5 {background-image: var(--transparency-1)!important; background-color: rgba(0,0,0,0)!important; margin-bottom: 0;}
 
 	/*Text*/
-	.content-3at_AU {margin: 0; width: 200px; transition: width 0.2s; transition-timing-function: ease-in-out; background-color: rgba(10,50,50,0.15)}
-	.content-3at_AU:hover {width: 100%; background-color: rgba(10,100,100,0.3)!important}
-	.selected-37j_iU .content-3at_AU {margin: 0; width: 100%; background-color: rgba(10,101,101,0.6)!important;}
-	.wrapper-2NJDcI {background-color: rgba(10,100,100,0.3)}
+	.content-3at_AU {margin: 0; width: 200px; transition: width 0.2s; transition-timing-function: ease-in-out; background-color: rgba(50,50,50,0.15)}
+	.content-3at_AU:hover {width: 100%; background-color: rgba(50,50,50,0.3)!important}
+	.selected-37j_iU .content-3at_AU {margin: 0; width: 100%; background-color: rgba(50,50,50,0.6)!important;}
+	.wrapper-2NJDcI {background-color: rgba(50,50,50,0.3)}
 
 	/*Voice*/
 	.containerDefault-1ZnADq .modeConnected-2IEL4z div.content-3at_AU {width: 100%; background-color: rgba(50,50,50,0.6)!important;}
