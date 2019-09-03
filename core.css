@@ -1,13 +1,14 @@
 ﻿/*
 Theme Owned and Made by Riley#7749
   
-Background Img: https://wdb.space/media/2015-12-31/oNA9umcm6F.png 
+Background Imgs: https://wdb.space/media/2015-12-31/oNA9umcm6F.png
+           https://i.ytimg.com/vi/4sv6XQnnvOI/maxresdefault.jpg
 Transparency2 Module: https://raw.githack.com/RileyAstley/RileyAstley.github.io/master/second - By Riley#7749
 The 2 items above are not owned by me, They go to there respected owners
 */
 
 :root{
-    --background: url('https://static.wallpapers-anime.com/upload/20170602/669/N/h/D/NhDGEF.jpg');
+    --background: url('https://i.ytimg.com/vi/4sv6XQnnvOI/maxresdefault.jpg');
 
     --transparency-1: linear-gradient(to right, rgba(0,0,0,0.55), rgba(0,0,0,0.55));
 	--transparency-2: linear-gradient(to right, rgba(0,0,0,0.55), rgba(0,0,0,0.55));
