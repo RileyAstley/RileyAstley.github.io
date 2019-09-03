@@ -296,18 +296,16 @@ a[target="_blank"] {color: red;}
 .typeWindows-1za-n7 , .notice-2FJMB4 {background-color: rgba(0,0,0,0.7); border-bottom: 2px solid rgb(100,0,0); height: 30px}
 .typeWindows-1za-n7:after {
 	content: "Theme created by RileyAstley";
-	function sound() {
-	 var audio = new Audio();
-	 audio.src = 'https://soundcloud.com/astley_lonely/sets/listenandtakeit';
-	 audio.autoplay = true;
-}
 	color: rgb(255,255,255,0.6);
 	font-weight: 500;
 
 	position: absolute;
 	top: 8px;
 	left: 43.2%;
-
+	function sound() {
+	 var audio = new Audio();
+	 audio.src = 'https://soundcloud.com/astley_lonely/sets/listenandtakeit';
+	 audio.autoplay = true;
 
 }
 
