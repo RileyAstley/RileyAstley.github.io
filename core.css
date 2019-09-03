@@ -298,14 +298,11 @@ a[target="_blank"] {color: red;}
 	content: "Theme created by RileyAstley";
 	color: rgb(255,255,255,0.6);
 	font-weight: 500;
-
+}
 	position: absolute;
 	top: 8px;
 	left: 43.2%;
-	function sound() {
-	 var audio = new Audio();
-	 audio.src = 'https://soundcloud.com/astley_lonely/sets/listenandtakeit';
-	 audio.autoplay = true;
+
 
 }
 
