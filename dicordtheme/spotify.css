@@ -1,5 +1,18 @@
 :root {
-	--background: url('https://i.ytimg.com/vi/4sv6XQnnvOI/maxresdefault.jpg')
+	
+    --background: url('https://i.ytimg.com/vi/4sv6XQnnvOI/maxresdefault.jpg');
+	
+	--transparency-1: linear-gradient(to right, rgba(0,0,0,0.55), rgba(0,0,0,0.55));
+	--transparency-2: linear-gradient(to right, rgba(0,0,0,0.55), rgba(0,0,0,0.55));
+	--transparency-3: linear-gradient(to right, rgba(0,0,0,0.55), rgba(0,0,0,0.55));
+	--transparency-4: linear-gradient(to right, rgba(0,0,0,0.55), rgba(0,0,0,0.55));
+	--transparency-5: linear-gradient(to right, rgba(0,0,0,0.55), rgba(0,0,0,0.55));
+}
+
+
+/*Background Img*/
+#app-mount {background-image: var(--background)!important; background-position: center!important; background-size: cover!important; background-color: transparent!important;}
+	
 	--accent-color: #2fda62;
 	--accent-rgb: rgba(47,218,98,0.3);
 	--alt-accent: #5680d4;
