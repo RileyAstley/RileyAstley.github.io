@@ -11,7 +11,7 @@
 
 
 /*Background Img*/
-#app-mount {background-image: var(--background)!important; background-position: center!important; background-size: cover!important; background-color: transparent!important;}
+#app-mount {background-image: var(--background)!important; background-position: center!important; background-size: cover!important; background-color: transparent!important;};
 	
 	--accent-color: #2fda62;
 	--accent-rgb: rgba(47,218,98,0.3);
