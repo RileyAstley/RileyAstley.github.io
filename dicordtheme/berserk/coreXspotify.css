@@ -606,9 +606,8 @@ a,
  *
  */
 
-.container-PNkimc,
-.channels-Ie2l6A {
-	background: var(--side-color) !important;
+.container-PNkimc , .container-1giJp5 {background-image: var(--transparency-1)!important; background-color: rgba(0,0,0,0)!important; margin-bottom: 0;}
+.panels-j1Uci_ {background-color: transparent;}
 
 	/*Text*/
 	.content-3at_AU {margin: 0; width: 200px; transition: width 0.2s; transition-timing-function: ease-in-out; background-color: rgba(50,50,50,0.15)}
