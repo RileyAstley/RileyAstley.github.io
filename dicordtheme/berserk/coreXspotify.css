@@ -15,6 +15,7 @@ Transparency2 Module: https://raw.githack.com/RileyAstley/RileyAstley.github.io/
 	--transparency-3: linear-gradient(to right, rgba(0,0,0,0.55), rgba(0,0,0,0.55));
 	--transparency-4: linear-gradient(to right, rgba(0,0,0,0.55), rgba(0,0,0,0.55));
     --transparency-5: linear-gradient(to right, rgba(0,0,0,0.55), rgba(0,0,0,0.55));
+	--menu-text-color: #b2b2b2;
 }
 
 
@@ -280,7 +281,7 @@ a[target="_blank"] {color: red;}
 
 /*Other*/
 .selected-1HYmZZ a {background-color: rgba(150,150,150,0.4)!important; margin-left: 15px}
-#app-mount .app-2rEoOp {background-color: transparent;}
+#app-mount .app-2rEoOp {background-color: transparent;};
 
 /*
  *
