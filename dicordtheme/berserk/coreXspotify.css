@@ -100,31 +100,6 @@ Transparency2 Module: https://raw.githack.com/RileyAstley/RileyAstley.github.io/
 
 		.voiceUser-14U_Ns .content-3xS9Lh:hover {background-color: transparent!important;}
 
-/*Messages*/
-.h1-1IDj26 {color: red!important;}
-.hasMore-3e72_v button {background-color: rgba(50,50,50,0.5)!important; color: red;}
-.wrapperHover-1GktnT , .mention {background-color: rgba(150,0,0,0.2)!important; color: red!important;}
-.isMentionedCozy-3isp7y {background-color: rgba(150,0,0,0.3)!important;}
-.isMentionedCozy-3isp7y:after {background: red; border-left: 4px solid red; width: 1px;}
-code , pre {background-color: rgba(50,50,50,0.3)!important}
-
-.messageGroupBlocked-3wrQQX {background-color: rgba(50,50,50,0.5)!important;}
-.messageGroupBlockedBtn-1PBBh- {background-color: transparent!important; color: red!important;}
-
-.noticeRegion-1YviSH {margin: auto;}
-.lookLink-9FtZy- , .anchor-3Z-8Bb , .bda-link {color: red!important;}
-.embedProviderLink-2Pq1Uw {color: rgb(150,150,150)!important;}
-
-.unreadMentionsBar-1VrBNe {background-color: red;}
-.selected-ML3OIq:before {background-color: rgb(100,100,100)!important; border-radius: 0!important;}
-.unread-qLkInr:before {background-color: rgb(150,0,0)!important; border-radius: 0!important;}
-
-.channelTextArea-1LDbYG .inner-zqa7da , .autocomplete-1vrmpx, .attachPopout-1n-ZKM {background-color: rgba(50,50,50,0.5)!important;}
-
-.newMessagesBar-mujexs {background-color: red} 
-.newMessagesBar-mujexs:hover {background-color: rgb(255,50,50)}
-.newMessagesBar-mujexs:active {background-color: rgb(255,100,100)}
-
 
 /*ScrollBars*/
 ::-webkit-scrollbar-thumb {background-color: rgba(150,0,0,0.6)!important; border-color: transparent!important;}
