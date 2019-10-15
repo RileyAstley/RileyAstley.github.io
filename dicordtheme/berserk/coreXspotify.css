@@ -263,10 +263,7 @@ a,
 /* TITLE BAR -> ICONS -> MEMBER LIST */
 
 .icon-22AiRD[name="Nova_People"] path {
-.membersGroup-v9BXpm {background-color: rgba(0,0,0,0.5); margin: 20px 8px 0 16px; padding: 0; height: 20px; text-align: center; border-radius: 10px; color: red!important;}
-.member-3W1lQa , .channel-2QD9_O a {margin-left: 0px; border-radius: 50px 0 0 50px!important; transition: margin 0.2s; transition-timing-function: ease-in-out;}
-.member-3W1lQa:hover , .channel-2QD9_O a:hover {background-color: rgba(50,50,50,0.6)!important; margin-left: 15px}
-.popout-open.member-3W1lQa {background-color: rgba(100,100,100,0.6)!important; margin-left: 15px};
+	d: path('M16 11c1.66 0 2.99-1.34 2.99-3S17.66 5 16 5c-1.66 0-3 1.34-3 3s1.34 3 3 3zm-8 0c1.66 0 2.99-1.34 2.99-3S9.66 5 8 5C6.34 5 5 6.34 5 8s1.34 3 3 3zm0 2c-2.33 0-7 1.17-7 3.5V19h14v-2.5c0-2.33-4.67-3.5-7-3.5zm8 0c-.29 0-.62.02-.97.05 1.16.84 1.97 1.97 1.97 3.45V19h6v-2.5c0-2.33-4.67-3.5-7-3.5z') !important;
 }
 
 /*
@@ -664,52 +661,10 @@ a,
  *
  */
 
-.member-3W1lQa {
-	margin: 1px 0;
-	border-radius: 0;
-}
-
-.member-3W1lQa .content-OzHfo4 {
-	position: relative;
-	padding: 0 16px;
-}
-
-.member-3W1lQa:hover .content-OzHfo4,
-.member-3W1lQa.popout-open .content-OzHfo4,
-.member-3W1lQa.popout-open:hover .content-OzHfo4 {
-	background: transparent !important;
-}
-
-.member-3W1lQa.memberOffline-2lN7gt {
-	filter: grayscale(1);
-	opacity: 0.75;
-}
-
-.member-3W1lQa.memberOffline-2lN7gt.popout-open {
-	filter: grayscale(0);
-}
-
-.member-3W1lQa.popout-open .content-OzHfo4:after {
-	content: " ";
-	position: absolute;
-	width: 4px;
-	height: 90%;
-	background: var(--accent-color);
-	top: 0;
-	left: 0;
-	bottom: 0;
-	margin: auto 0;
-}
-
-.member-3W1lQa .status-oxiHuE,
-.privateChannels-1nO12o .avatar-small .status,
-.channel-2QD9_O .status-1ibiUI {
-	border-color: var(--side-color) !important;
-}
-
-.ownerIcon-uZ6mE7 path {
-	fill: #ccc;
-}
+.membersGroup-v9BXpm {background-color: rgba(0,0,0,0.5); margin: 20px 8px 0 16px; padding: 0; height: 20px; text-align: center; border-radius: 10px; color: red!important;}
+.member-3W1lQa , .channel-2QD9_O a {margin-left: 0px; border-radius: 50px 0 0 50px!important; transition: margin 0.2s; transition-timing-function: ease-in-out;}
+.member-3W1lQa:hover , .channel-2QD9_O a:hover {background-color: rgba(50,50,50,0.6)!important; margin-left: 15px}
+.popout-open.member-3W1lQa {background-color: rgba(100,100,100,0.6)!important; margin-left: 15px};
 
 
 /*
